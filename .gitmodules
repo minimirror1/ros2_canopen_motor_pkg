@@ -1,0 +1,3 @@
+[submodule "lib/robot_CANopenMotor"]
+	path = lib/robot_CANopenMotor
+	url = https://github.com/minimirror1/robot_CANopenMotor
